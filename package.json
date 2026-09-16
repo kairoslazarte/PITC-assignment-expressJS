@@ -1,0 +1,14 @@
+{
+  "name": "pitc-expressjs-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kairos Lazarte",
+  "license": "ISC",
+  "description": "PITC ExpressJS Assignment",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
